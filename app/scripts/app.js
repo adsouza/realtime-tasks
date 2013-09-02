@@ -15,8 +15,8 @@
 'use strict';
 
 var CONFIG = {
-  clientId: '502747173299.apps.googleusercontent.com',
-  apiKey: 'AIzaSyA8uaDCmQ1mvhjXQZvF55vW9ygO_fAYKRs',
+  clientId: '269624680910-fv2dm265ukvaec46lvkvvpckug85f00f.apps.googleusercontent.com',
+  apiKey: 'AIzaSyAyRhaUHAPLZBnHCugB4v47yMBRbPfFqTU',
   scopes: [
     'https://www.googleapis.com/auth/drive.file',
     'https://www.googleapis.com/auth/drive.install'
